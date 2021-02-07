@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Sadman!
+# :wave: Hi, I'm Sadman!
 
-I'm a senior (Grade 12) in high school at Bloor Collegiate Institute interested in building software to solve problems. Currently exploring embedded systems, web development, and machine learning
+:mortar_board: I'm a senior (Grade 12) in high school at Bloor Collegiate Institute interested in building software to solve problems. Currently exploring embedded systems, web development, and machine learning.
 
-### Check out my intellectual journal (i.e. my blog) at [**sadman.tech**](https://sadman.tech)!
+### :page_facing_up: Check out my intellectual journal (i.e. my blog) at [**sadman.tech**](https://sadman.tech)!
