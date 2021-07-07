@@ -3,4 +3,4 @@ I'm an incoming engineering student at the University of Toronto (:mortar_board:
 
 I like competitive programming, graphic design, and table tennis. 
 
-Currently exploring embedded systems, web development, and machine learning.
+Currently exploring embedded systems, machine learning, and web development.
